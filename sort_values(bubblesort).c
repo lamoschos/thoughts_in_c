@@ -1,4 +1,5 @@
 #Sort values with functions and pointers
+#using bubble sort algorithm 
 
 #include<stdio.h>
 #include<stdlib.h>
